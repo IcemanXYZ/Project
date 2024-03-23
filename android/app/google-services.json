@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487879313721",
+    "project_id": "endowrim-24dbd",
+    "storage_bucket": "endowrim-24dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487879313721:android:e7aa99095461ddf6b700e8",
+        "android_client_info": {
+          "package_name": "com.example.endowrim_unievents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmPQ06uDFHE1NQT9b6qBGiHp3tTAmBCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
